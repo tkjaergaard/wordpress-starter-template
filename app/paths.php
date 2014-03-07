@@ -28,7 +28,7 @@ defined('LIBRARY_URL') or define('LIBRARY_URL',  THEME_URL."/library");
 | Set the path to the library folder.
 |
 */
-defined('LIBRARY_PATH') or define('LIBRARY_PATH',  dirname(__DIR__));
+defined('LIBRARY_PATH') or define('LIBRARY_PATH',  dirname(dirname(__DIR__))."/library");
 
 /*
 |--------------------------------------------------------------------------
