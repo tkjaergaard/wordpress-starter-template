@@ -17,6 +17,16 @@ All core files are located within the `app/` directory, you should not change an
 
 Take a browse through the `app/` directory to see what it does.
 
+## Definitions
+
+`THEME_URL` url to the theme folder. 
+
+`LIBRARY_URL` url to the library folder.
+
+`ASSETS_URL` url to the assets folder.
+
+`LIBRARY_PATH` path to the library folder.
+
 ## Helper functions
 *Comming soon*
 
