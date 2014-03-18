@@ -15,7 +15,7 @@ Edit the style.css file to match your information.
 
 All core files are located within the `app/` directory, you should not change anything here, use the library folder instead to store your theme specific files like assets, helper function, post-type creation etc.
 
-Take a browse through the `app/` directory to see what it does.
+Take a quick browse through the `app/` directory to see what it does.
 
 ## Definitions
 
@@ -32,9 +32,9 @@ Take a browse through the `app/` directory to see what it does.
 
 ## Contribute
 
-The goal of the theme is to keep it simple, and just provide basic functionality and enhancement.
+The goal of the theme is to keep it simple, and just provide basic functionality and enhancements.
 
-**No markup specific pull-commits will be merged.**
+**No markup specific pull-requests will be merged.**
 
 ## Author
 Thomas Kjaergaard   
