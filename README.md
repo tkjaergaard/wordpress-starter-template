@@ -19,7 +19,7 @@ Take a quick browse through the `app/` directory to see what it does.
 
 ## Definitions
 
-`THEME_URL` url to the theme folder. 
+`THEME_URL` url to the theme folder.
 
 `LIBRARY_URL` url to the library folder.
 
@@ -28,7 +28,15 @@ Take a quick browse through the `app/` directory to see what it does.
 `LIBRARY_PATH` path to the library folder.
 
 ## Helper functions
-*Comming soon*
+
+**get_thumb_url**
+this method allows you the retrive the url of
+a thumbnail associated to a post.
+
+    echo get_thumb_url();
+
+    echo get_thumb_url($size='thumbnail',$id=null)
+
 
 ## Contribute
 
@@ -37,7 +45,7 @@ The goal of the theme is to keep it simple, and just provide basic functionality
 **No markup specific pull-requests will be merged.**
 
 ## Author
-Thomas Kjaergaard   
+Thomas Kjaergaard
 *Denmark*
 
 [Twitter](http://twitter.com/t_kjaergaard)
